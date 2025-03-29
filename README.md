@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rafed Naeem 👋</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafednaeem&show_icons=true&theme=dark" />
 </p>
 
 ## 🚀 Tech Stack
@@ -29,8 +29,10 @@
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafednaeem&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafednaeem&layout=compact&theme=dark)
+
 
 ## 🚀 Projects
 
@@ -40,5 +42,5 @@
 
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-rafedsarmad@gmail.com)
 
