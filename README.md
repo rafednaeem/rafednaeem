@@ -28,19 +28,13 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
 
-## 📊 GitHub Stats  
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafednaeem&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafednaeem&layout=compact&theme=dark)
 
 
-## 🚀 Projects
-
-- **[Project Name](GitHub Repo Link)** - Short description (Tech Stack: React, Node.js, MongoDB)
-- **[Another Project](GitHub Repo Link)** - Short description (Tech Stack: Python, Flask, MySQL)
-
-
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-rafedsarmad@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafedsarmad@gmail.com)
 
