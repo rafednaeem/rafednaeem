@@ -28,6 +28,27 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
 
+## 🚀 Projects  
+
+- **FYP - Cyber Fort**  
+  *(Tech Stack: Python, Phaser.js, React, Vite, MongoDB)*  
+  A cybersecurity-based game and learning platform integrating AI to educate users on cyber threats.  
+
+- **LMS (Learning Management System)**  
+  *(Tech Stack: PHP, MySQL, JavaScript, HTML, CSS)*  
+  A complete LMS for managing online courses, student progress tracking, and user authentication.  
+
+- **Sentiment Analysis**  
+  *(Tech Stack: JavaScript, Python)*  
+  An AI-powered tool that analyzes text sentiment to determine positive, neutral, or negative tones.  
+
+- **Quantum Secure Direct Communication (QSDC)**  
+  *(Tech Stack: Python, JavaScript)*  
+  A project simulating QSDC using the Ping-Pong Protocol to explore secure quantum communication.  
+
+- **Fruit Classification App**  
+  *(Tech Stack: React Native)*  
+  A mobile app that classifies fruits using machine learning models integrated with React Native.  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafednaeem&show_icons=true&theme=dark)  
@@ -35,6 +56,9 @@
 
 
 ## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafed-naeem-567953273/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafedsarmad@gmail.com)
+
+- **Email:** [rafedsarmad@gmail.com](mailto:rafedsarmad@gmail.com)  
+- **LinkedIn:** [Rafed Naeem](https://www.linkedin.com/in/rafed-naeem-567953273/)  
+- **Indeed:** [Rafed Naeem](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-homepage)  
+
 
